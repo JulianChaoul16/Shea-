@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "our-year",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\JuJuC\\AppData\\Local\\Temp\\claude\\C--Users-JuJuC-OneDrive-Desktop-LoveProject\\b85c99ec-de11-44cd-9a7a-baf707f7c134\\scratchpad\\serve.js"],
+      "port": 8765
+    }
+  ]
+}
